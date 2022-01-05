@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 # Olá! Seja muito bem-vindo, sou o Edvan Silva 👋
 
 <div align="start">
