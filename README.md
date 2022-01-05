@@ -2,12 +2,9 @@
 
 <br>
 
-- 📚  Atualmente aprofundando meus conhecimentos em React,
-      clean code e arquitetura de softwares...
+#### - 📚  Atualmente aprofundando meus conhecimentos em React, Clean Code e Arquitetura de Softwares...
      
-- 📐  Contribuindo ativamente em projetos
-      fullstack, buscando ter uma visão ampla
-      do desenvolvimento de aplicações web...
+#### - 📐  Contribuindo ativamente em projetos fullstack, buscando ter uma visão ampla do desenvolvimento de aplicações web...
      
 <br>
 
